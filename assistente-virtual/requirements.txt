@@ -1,0 +1,11 @@
+flask
+openai
+selenium
+webdriver-manager
+SpeechRecognition
+gtts
+pillow
+opencv-python
+requests
+python-dotenv
+pydub

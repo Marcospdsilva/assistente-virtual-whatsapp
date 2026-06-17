@@ -1,0 +1,14 @@
+2026/06/16-21:23:03.187 5eba Reusing MANIFEST /home/marcos/Área de trabalho/assistente_virtual-ia/.whatsapp-profile/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/16-21:23:03.187 5eba Recovering log #52
+2026/06/16-21:23:03.498 5eba Reusing old log /home/marcos/Área de trabalho/assistente_virtual-ia/.whatsapp-profile/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000052.log 
+2026/06/16-21:23:09.518 5eba Level-0 table #58: started
+2026/06/16-21:23:09.668 5eba Level-0 table #58: 1149739 bytes OK
+2026/06/16-21:23:09.702 5eba Delete type=0 #52
+2026/06/16-21:23:10.138 5eba Compacting 1@1 + 2@2 files
+2026/06/16-21:23:10.296 5eba Generated table #59@1: 58629 keys, 2214553 bytes
+2026/06/16-21:23:10.347 5eba Generated table #60@1: 15045 keys, 1977259 bytes
+2026/06/16-21:23:10.347 5eba Compacted 1@1 + 2@2 files => 4191812 bytes
+2026/06/16-21:23:10.355 5eba compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/06/16-21:23:10.356 5eba Delete type=2 #58
+2026/06/16-21:23:10.356 5eba Delete type=2 #55
+2026/06/16-21:23:10.356 5eba Delete type=2 #54
